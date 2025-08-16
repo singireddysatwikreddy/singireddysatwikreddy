@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singireddysatwikreddy
-- Pursuing my btech in ELECTRONICS AND COMPUTER.
-- 🌱 Aspiring Developer | Proficient in Web Development, SQL, Java, and Tableau
+-  Btech Graduate in ELECTRONICS AND COMPUTER ENGINEERING.
+- 🌱 Aspiring Developer | Proficient in Web Development, SQL, Java and Tableau
 - 📫 reach me email:satwiksingireddy@gmail.com
 
 <!---
